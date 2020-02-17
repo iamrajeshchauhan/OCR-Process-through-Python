@@ -42,9 +42,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 This is python script would help you to understand how Image to text would give the accurate results.
 
 Before running this script there are two main steps has to be process 
-1. Installation of **Tesseract Software ** from (https://digi.bib.uni-mannheim.de/tesseract/)
-2. After Installing the software set the ** Enviornment Variable path** by "(C:\Program Files (x86))"
-
+1. Installation of ** Tesseract Software ** from [Tesseract](https://digi.bib.uni-mannheim.de/tesseract/)
+2. After Installing the software set the ** Enviornment Variable path ** by "(C:\Program Files (x86))"
 
 
 ## Results<a name="results"></a>
